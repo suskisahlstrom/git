@@ -1,5 +1,7 @@
 body {
   background-color: blue;
+  background-color: #aaa;
+  color: yellow;
 }
 h2 {
   background-color: red;
